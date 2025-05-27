@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [adarsh0670@gmail.com](mailto:your.adarsh0670@gmail.com)
 
-Project Link: [https://github.com/yourusername/flask-todo-app](https://github.com/AdarshXKumAR/flask-todo-app)
+Project Link: [https://github.com/AdarshXKumAR/To-do-List](https://github.com/AdarshXKumAR/To-do-List)
 
 ## Acknowledgments
 
