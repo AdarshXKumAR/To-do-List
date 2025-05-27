@@ -32,7 +32,7 @@ A simple and intuitive ToDo application built with Flask, SQLAlchemy, and Bootst
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flask-todo-app.git
+   git clone https://github.com/AdarshXKumAR/flask-todo-app.git
    cd flask-todo-app
    ```
 
@@ -144,9 +144,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [adarsh0670@gmail.com](mailto:your.adarsh0670@gmail.com)
 
-Project Link: [https://github.com/yourusername/flask-todo-app](https://github.com/yourusername/flask-todo-app)
+Project Link: [https://github.com/yourusername/flask-todo-app](https://github.com/AdarshXKumAR/flask-todo-app)
 
 ## Acknowledgments
 
